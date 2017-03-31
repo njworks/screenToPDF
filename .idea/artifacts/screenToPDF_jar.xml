@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="screenToPDF:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/screenToPDF_jar</output-path>
+    <root id="archive" name="screenToPDF.jar">
+      <element id="module-output" name="screenToPDF" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/itextpdf/itextpdf/5.5.11/itextpdf-5.5.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
